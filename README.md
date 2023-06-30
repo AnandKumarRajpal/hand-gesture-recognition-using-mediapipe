@@ -28,3 +28,9 @@ To train the classifier, open the `keypoint_classification.ipynb` file in Jupyte
 We can add more classes to the classifier by changing the value of `NUM_CLASSES = 3` in the notebook and train the classifier.
 
 After adding the new classes, we also need to modify the labels in `keypoint_classifier/keypoint_classifier_label.csv`.
+
+### References:
+
+[1] https://github.com/kinivi/hand-gesture-recognition-mediapipe
+
+[2] https://developers.google.com/mediapipe/solutions/vision/gesture_recognizer
