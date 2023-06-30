@@ -2,6 +2,8 @@
 
 This is a simple program to detect three hand gestures, open palm, closed palm, and thumbs up (🖐️, ✊, 👍). The program can also be used to add new training data for gesture classifier and re-train the classifier to add more gesters.
 
+![](https://github.com/AnandKumarRajpal/hand-gesture-recognition-using-mediapipe/blob/main/assets/Jun-30-2023%2022-40-21-compressed.gif?raw=true)
+
 ## Demo
 
 Install the requirements:
